@@ -17,6 +17,8 @@
 
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css">
+    <!-- Require functions.php -->
+    <?php require('functions.php')?>
 </head>
 <body>
 
